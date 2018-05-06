@@ -27,6 +27,11 @@ button {
 	padding: 15px;
 	cursor: pointer;
 	color: #1a001a;
+	border-radius: 2vh;
+}
+
+button:hover {
+	opacity: 0.4;
 }
 
 a {
@@ -34,4 +39,8 @@ a {
 	display: block;
 	margin: 15px;
 	color: #330033;
+}
+
+a:hover {
+	opacity: 0.4;
 }
